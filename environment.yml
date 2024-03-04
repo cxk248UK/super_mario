@@ -1,0 +1,7 @@
+name: super_mario
+channels:
+  - defaults
+dependencies:
+  - python=3.11.8
+  - tensordict=0.3.0
+  - torchrl=0.3.0
